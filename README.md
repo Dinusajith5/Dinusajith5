@@ -9,9 +9,7 @@ I love code !! ..... I am undergraduate Student in the SLIIT .
 * 🌍  I'm based in Colombo.
 * 🖥️  See my portfolio at [My Website](http://dinukasajith.vercel.app/)
 * ✉️  You can contact me at [Dinusajith5@gmail.com](mailto:Dinusajith5@gmail.com)
-* 🚀  I'm currently working on [CIC Holdings-Logistic System](#)
-* 🧠  I'm learning ASP .Net , JavaScript , React
-* 🤝  I'm open to collaborating on other DIRIYA Project
+* 🧠  I'm learning ASP .Net , JavaScript , React, Node js
 * ⚡  Dinu S
 
 ### Skills
