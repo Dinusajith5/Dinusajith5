@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I love code !! ..... I am undergraduate Student in the SLIIT .
+I love code !! ....
 
 * 🌍  I'm based in Colombo.
 * 🖥️  See my portfolio at [My Website](http://dinukasajith.vercel.app/)
